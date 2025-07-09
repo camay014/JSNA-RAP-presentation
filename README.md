@@ -26,4 +26,3 @@ R:
 
 Git:
 [Introduction to Git](https://nhsdigital.github.io/rap-community-of-practice/training_resources/git/introduction-to-git/)
-![image](https://github.com/user-attachments/assets/48579660-512a-48df-8030-e9c5e4408311)
